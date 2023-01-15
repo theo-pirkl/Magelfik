@@ -3,7 +3,6 @@
 Thanks for checking my profile !
 
 - 🌱 I’m currently working on finishing my Master degree in [University of Geneva](https://www.unige.ch).
-- 🔧 I'm working on an app that [simplifies the use of legal registries](https://www.lexoculus.ch).
 - 👯 I’m currently working on a few open sources projects, like [the fog project](https://github.com/FOGProject/fogproject).
 
 <!--
